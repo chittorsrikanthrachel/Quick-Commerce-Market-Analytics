@@ -189,7 +189,7 @@ Provides an overview of:
 - Customer Ratings
 - Company Performance
 
-![Executive Overview Dashboard](images/executive_overview_dashboard.png)
+![Executive Overview Dashboard](executive_overview_dashboard.png)
 
 ---
 
