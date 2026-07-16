@@ -202,7 +202,7 @@ Analyzes:
 - Product Categories
 - Customer Ratings
 
-![Customer Analysis Dashboard](images/customer_analysis_dashboard.png)
+![Customer Analysis Dashboard](customer_analysis_dashboard.png)
 
 ---
 
@@ -215,7 +215,7 @@ Analyzes:
 - Company-wise Delivery Performance
 - Delivery Partner Ratings
 
-![Delivery Performance Dashboard](images/delivery_performance_dashboard.png)
+![Delivery Performance Dashboard](delivery_performance_dashboard.png)
 
 ---
 
