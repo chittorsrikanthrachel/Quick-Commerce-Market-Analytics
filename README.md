@@ -189,7 +189,7 @@ Provides an overview of:
 - Customer Ratings
 - Company Performance
 
-![Executive Overview Dashboard](executive_overview_dashboard.png)
+![Executive Overview Dashboard](images\executive_overview_dashboard.png)
 
 ---
 
@@ -202,7 +202,7 @@ Analyzes:
 - Product Categories
 - Customer Ratings
 
-![Customer Analysis Dashboard](customer_analysis_dashboard.png)
+![Customer Analysis Dashboard](images\customer_analysis_dashboard.png)
 
 ---
 
@@ -215,7 +215,7 @@ Analyzes:
 - Company-wise Delivery Performance
 - Delivery Partner Ratings
 
-![Delivery Performance Dashboard](delivery_performance_dashboard.png)
+![Delivery Performance Dashboard](iamges\delivery_performance_dashboard.png)
 
 ---
 
