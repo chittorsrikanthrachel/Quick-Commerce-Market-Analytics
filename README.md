@@ -215,7 +215,7 @@ Analyzes:
 - Company-wise Delivery Performance
 - Delivery Partner Ratings
 
-![Delivery Performance Dashboard](iamges/delivery_performance_dashboard.png)
+![Delivery Performance Dashboard](images/delivery_performance_dashboard.png)
 
 ---
 
