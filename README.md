@@ -67,20 +67,20 @@ The objective of this project is to analyze quick commerce transaction data and 
 Quick-Commerce-Market-Analytics/
 │
 ├── dataset/
-│   └── task1_commerce.csv
+│   └── quick_commerce.zip
 │
 ├── report/
-│   ├── Quick_Commerce_Report.docx
-│   └── Quick_Commerce_Report.pdf
+│   ├── Quick_Commerce_Market_Analytics_Report.docx
+│   └── Quick_Commerce_Market_Analytics_Report.pdf
 │
 ├── sql/
 │   └── business_queries.sql
 │
 ├── python/
-│   └── quick_commerce_analysis.ipynb
+│   └── Quick_Commerce_Market_Analytics.ipynb
 │
 ├── tableau/
-│   └── Quick_Commerce_Dashboard.twbx
+│   └── Quick_Commerce_Market_Analytics.twbx
 │
 ├── images/
 │   ├── executive_overview_dashboard.png
