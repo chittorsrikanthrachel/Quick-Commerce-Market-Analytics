@@ -223,7 +223,6 @@ Analyzes:
 
 - Company performance varies significantly in terms of revenue and order volume.
 - Customer purchasing behavior differs across age groups.
-- Digital payment methods are the most preferred payment option.
 - Certain product categories contribute a major share of total sales.
 - Delivery efficiency directly impacts customer satisfaction.
 - Companies with higher delivery partner ratings generally receive better customer ratings.
